@@ -1,0 +1,64 @@
+*{
+      box-sizing: border-box;
+	}
+	.container{
+	width: 80%;
+	float:left;
+	margin: 0 10% 10% 10%;
+    }
+	.navbar{
+		width:100%;
+		float: left;
+        height: 5rem;
+	}
+	ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  text-align: center;
+  padding: 20px;
+  text-decoration: none;
+  color: black;
+}
+.miloo{
+	width:20%;
+	float:left;
+	padding: 0 0 0 5%;
+}
+.miloo a{
+	color: black;
+	text-decoration: none;
+}
+.first{width: 40%; float: left;}
+.second{width: 40%; float: left; padding: 0 0 0 15%;}
+.wrapper{
+	width: 100%;
+	float: left;
+
+}
+.container_a{
+	width:38%;
+	height:50rem;
+	float: left;
+}
+.container_b{
+	width: 38%;
+	height: 50rem;
+	float:left;
+	padding: 0 0 0 2%;
+}
+.container_c{
+	width:22%;
+	height: 50rem;
+	float:left;
+	padding: 0 0 0 2%;
+}
